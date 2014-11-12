@@ -1,0 +1,29 @@
+p { 
+   font: italic bold 21px "Times New Roman";
+   background-color: blue;
+}
+
+table {
+	border: 1px solid red;
+}
+
+td, 
+th {
+	border-right: 1px solid red;
+}
+
+th {
+	border-bottom: 1px solid red;
+}
+
+img {
+	border: 1px solid red;
+}
+
+.blah{
+	color:purple;
+}
+
+#boo{
+	background-color: yellow;
+}
